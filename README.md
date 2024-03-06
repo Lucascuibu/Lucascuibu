@@ -1,17 +1,21 @@
 ### Hi there 👋
 
-<!--
-**Lucascuibu/Lucascuibu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="width: 100%;">
+  <img src="animated.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 
-Here are some ideas to get you started:
+![Static Badge](https://img.shields.io/badge/Code-red)
+![Static Badge](https://img.shields.io/badge/Deisgn-green)
+![Static Badge](https://img.shields.io/badge/Filmmaking-yellow)
+![Static Badge](https://img.shields.io/badge/Filmmaking-yellow)
 
 
--->
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+Hangqi Cui, a senior at Boston University, is pursuing a joint major in Mathematics and Computer Science. With a background as an independent filmmaker, he has interned at DXChannel and Tesla, gaining valuable experience in the process. Currently, his focus is on computer graphics and full-stack technology, demonstrating proficiency in:
+
+- Programming Languages: Python, TypeScript, Vue, HTML, CSS, Java, C++
+- Development Tools and Platforms: Vercel, Heroku, Shadertoy, Fusion 3D, Onshape
+- Design and Animation Software: Blender, Photoshop, After Effects
+
+
+In 2024, Hangqi Cui collaborated with [Jida Li] to launch "Erudite" as an independent project. "Erudite" is an innovative course planner designed to help Boston University students manage their academic schedules more efficiently and elegantly. The first beta version was released in February, showcasing their commitment to enhancing educational tools for students.
